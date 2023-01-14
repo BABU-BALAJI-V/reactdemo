@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.app{
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+a{
+  color:black;
+}
+.ob1{
+  color:black;
+  font-size: large;
+  
+}
+.code{
+  display: inline-block;
+}
+.lol{
+  display: block;
+  width: 200;
+}
