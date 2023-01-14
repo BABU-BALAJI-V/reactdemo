@@ -1,7 +1,8 @@
+import "style.css";
 function Hero() {
 return(
     <div>
-    <img class="img" src="prpic.PNG" height={150} width={150} radius={50}/>
+    <img class="img" src="prpic.PNG" height={150} width={150}/>
         <div class="row">
         <h1 id="ob1"><b>BABU BALAJI V</b></h1>
         <h3 class="abc">IT Professional</h3> 
